@@ -1,0 +1,286 @@
+Protein ID,Peptide,Protein description,DMD_ID_Protein,Species,Intervals,Function,Selected Literature,SelectedIdx,Final IC50 (uM),Definition,Definition (100%),Method
+P00711,DKVGINY,Alpha-lactalbumin,DMD301506,Bos taurus,116-122,ACE-inhibitory,10.1016/j.foodchem.2011.09.052,2,104.22,,,
+P00711,DKVGINYW,Alpha-lactalbumin,DMD301506,Bos taurus,116-123,ACE-inhibitory,10.1016/j.foodchem.2011.09.052,2,25.35,,,
+P00711,EQLTKCEVFR,Alpha-lactalbumin,DMD301506,Bos taurus,20-29,DPP-IV Inhibitory,10.1016/j.foodchem.2020.126333,NA,12,,,
+P00711,GVSLPEW,Alpha-lactalbumin,DMD301506,Bos taurus,39-45,ACE-inhibitory,10.1016/j.idairyj.2007.04.008,NA,30,ACE Inhibition,100% ACE Inhibition,Shalaby et al. (2006)
+P00711,GYGGVSLPEW,Alpha-lactalbumin,DMD301506,Bos taurus,36-45,ACE-inhibitory,10.1016/j.jff.2015.11.038,NA,2,ACE Inhibition,100% ACE Inhibition,Cheung and Li-Chan (2010)
+P00711,ILDKVGINY,Alpha-lactalbumin,DMD301506,Bos taurus,114-122,DPP-IV Inhibitory,10.1016/j.peptides.2014.01.002,1,263,DPP-IV Inhibition,100% DPP-IV inhibition,"I.M.E.?Lacroix,?E.C.Y.?Li-Chan (2013)"
+P00711,ILDKVGINYWLAHK,Alpha-lactalbumin,DMD301506,Bos taurus,114-127,DPP-IV Inhibitory,10.1016/j.foodchem.2020.126333,NA,23.1,,,
+P00711,IVQNNDSTEYGLF,Alpha-lactalbumin,DMD301506,Bos taurus,60-72,DPP-IV Inhibitory,10.1016/j.peptides.2014.01.002,NA,337,DPP-IV Inhibition,100% DPP-IV inhibition,"I.M.E.?Lacroix,?E.C.Y.?Li-Chan (2013)"
+P00711,IW,Alpha-lactalbumin,DMD301506,Bos taurus,78-79,ACE-inhibitory,10.1016/j.idairyj.2015.09.004,NA,0.7,,,
+P00711,KGYGGVSL,Alpha-lactalbumin,DMD301506,Bos taurus,35-42,ACE-inhibitory,10.1016/j.foodchem.2011.09.052,2,325.2,,,
+P00711,KGYGGVSLPEW,Alpha-lactalbumin,DMD301506,Bos taurus,35-45,ACE-inhibitory,10.1016/j.foodchem.2011.09.052,2,0.71,,,
+P00711,KILDKVGINYWLAHK,Alpha-lactalbumin,DMD301506,Bos taurus,113-127,DPP-IV Inhibitory,10.1016/j.foodchem.2020.126333,NA,11.4,,,
+P00711,LAHKAL,Alpha-lactalbumin,DMD301506,Bos taurus,124-129,ACE-inhibitory,10.1016/S0958-6946(98)00048-X,NA,621,,,
+P00711,LAHKALCSEKL,Alpha-lactalbumin,DMD301506,Bos taurus,124-134,DPP-IV Inhibitory,10.1016/j.peptides.2014.01.002,NA,165,DPP-IV Inhibition,100% DPP-IV inhibition,"I.M.E.?Lacroix,?E.C.Y.?Li-Chan (2013)"
+P00711,LCSEKLDQ,Alpha-lactalbumin,DMD301506,Bos taurus,129-136,DPP-IV Inhibitory,10.1016/j.peptides.2014.01.002,NA,186,DPP-IV Inhibition,100% DPP-IV inhibition,"I.M.E.?Lacroix,?E.C.Y.?Li-Chan (2013)"
+P00711,LDQWLCEKL,Alpha-lactalbumin,DMD301506,Bos taurus,134-142,DPP-IV Inhibitory,10.1016/j.foodchem.2020.126333,NA,59.6,,,
+P00711,LKDLKGYGG,Alpha-lactalbumin,DMD301506,Bos taurus,31-39,DPP-IV Inhibitory,10.1111/1471-0307.12868,NA,4930,,,
+P00711,LKGYGGVSLPE,Alpha-lactalbumin,DMD301506,Bos taurus,34-44,DPP-IV Inhibitory,10.1016/j.jff.2015.11.038,NA,486,DPP-IV Inhibition,100% DPP-IV inhibition,?Lacroix and Li-Chan (2014)
+P00711,LKGYGGVSLPEW,Alpha-lactalbumin,DMD301506,Bos taurus,34-45,ACE-inhibitory,10.1016/j.idairyj.2007.04.008,NA,83,ACE Inhibition,100% ACE Inhibition,Shalaby et al. (2006)
+P00711,TKCEVFRE,Alpha-lactalbumin,DMD301506,Bos taurus,23-30,DPP-IV Inhibitory,10.1016/j.peptides.2014.01.002,NA,166,DPP-IV Inhibition,100% DPP-IV inhibition,"I.M.E.?Lacroix,?E.C.Y.?Li-Chan (2013)"
+P00711,TTFHTSGY,Alpha-lactalbumin,DMD301506,Bos taurus,48-55,ACE-inhibitory,10.1016/j.bcab.2019.101258,NA,142,,,
+P00711,VGINYWLAHK,Alpha-lactalbumin,DMD301506,Bos taurus,118-127,DPP-IV Inhibitory,10.1016/j.foodchem.2020.126333,NA,13.8,,,
+P00711,VGINYWLAHK,Alpha-lactalbumin,DMD301506,Bos taurus,118-127,ACE-inhibitory,10.1017/s0022029999003982,NA,327,ACE activity inhibition,100% ACE Inhibition,"Cushman & Cheung (1971), Nakamura et al. (1995)"
+P00711,VSLPEW,Alpha-lactalbumin,DMD301506,Bos taurus,40-45,ACE-inhibitory,10.1016/j.idairyj.2007.04.008,NA,57,ACE Inhibition,100% ACE Inhibition,Shalaby et al. (2006)
+P00711,WL,Alpha-lactalbumin,DMD301506,Bos taurus,"123-124, 137-138",DPP-IV Inhibitory,10.1016/j.foodres.2015.09.012,NA,43.6,,,
+P00711,WL,Alpha-lactalbumin,DMD301506,Bos taurus,"123-124, 137-138",ACE-inhibitory,10.1016/j.idairyj.2015.09.004,NA,10,,,
+P00711,WLAHK,Alpha-lactalbumin,DMD301506,Bos taurus,123-127,ACE-inhibitory,10.1017/s0022029999003982,2,0.6,ACE activity inhibition,100% ACE Inhibition,"Cushman & Cheung (1971), Nakamura et al. (1995)"
+P00711,WLAHKAL,Alpha-lactalbumin,DMD301506,Bos taurus,123-129,ACE-inhibitory,10.1016/j.jff.2015.11.038,NA,29,ACE Inhibition,100% ACE Inhibition,Cheung and Li-Chan (2010)
+P00711,WLAHKAL,Alpha-lactalbumin,DMD301506,Bos taurus,123-129,DPP-IV Inhibitory,10.1016/j.jff.2015.11.038,NA,286,DPP-IV Inhibition,100% DPP-IV inhibition,?Lacroix and Li-Chan (2014)
+P00711,WLAHKALCSEKLDQ,Alpha-lactalbumin,DMD301506,Bos taurus,123-136,DPP-IV Inhibitory,10.1016/j.peptides.2014.01.002,NA,141,DPP-IV Inhibition,100% DPP-IV inhibition,"I.M.E.?Lacroix,?E.C.Y.?Li-Chan (2013)"
+P00711,WV,Alpha-lactalbumin,DMD301506,Bos taurus,45-46,DPP-IV Inhibitory,10.1016/j.peptides.2012.11.016,NA,65.69,DPP-IV Inhibition,100% DPP-IV inhibition,"I.M.E.?Lacroix,?E.C.Y.?Li-Chan (2012)"
+P00711,YGGVSLPEW,Alpha-lactalbumin,DMD301506,Bos taurus,37-45,ACE-inhibitory,10.1016/j.idairyj.2007.04.008,NA,16,ACE Inhibition,100% ACE Inhibition,Shalaby et al. (2006)
+P00711,YGL,Alpha-lactalbumin,DMD301506,Bos taurus,69-71,ACE-inhibitory,10.1017/s0022029999003982,NA,409,ACE activity inhibition,100% ACE Inhibition,"Cushman & Cheung (1971), Nakamura et al. (1995)"
+P00711,YGLF,Alpha-lactalbumin,DMD301506,Bos taurus,69-72,ACE-inhibitory,10.1515/bchm3.1996.377.4.259,1,733,ACE Inhibition,100% ACE Inhibition,Cushman and Chung (1971)
+P02662,AYFYPE,Alpha-S1-casein,DMD301501,Bos taurus,158-163,ACE-inhibitory,10.3168/jds.S0022-0302(94)77026-0,2,106,ACE Inhibition,100% ACE Inhibition,Cushman and Cheung (1977)
+P02662,AYFYPEL,Alpha-S1-casein,DMD301501,Bos taurus,158-164,ACE-inhibitory,10.1016/j.idairyj.2009.05.004,NA,6.58,,,
+P02662,DAYPSGAW,Alpha-S1-casein,DMD301501,Bos taurus,172-179,ACE-inhibitory,10.1016/S0958-6946(98)00048-X,NA,98,,,
+P02662,EL,Alpha-S1-casein,DMD301501,Bos taurus,"54-55, 156-157, 163-164",Antioxidant,10.1016/s0955-2863(99)00083-2,NA,63.1,Reduction of superoxide anion production (Tetrazolium salt XTT method),100% Reduction of superoxide anion production (Tetrazolium salt XTT method),"H.?Ukeda,?S.?Maeda,?T.?Ishii,?M.?Sawamura (1997)"
+P02662,ENLLRFFVAPFPEVFG,Alpha-S1-casein,DMD301501,Bos taurus,33-48,ACE-inhibitory,10.1021/jf049510t,NA,250,ACE activity inhibition,100% ACE Inhibition,(Mentioned in the study)
+P02662,FFVAP,Alpha-S1-casein,DMD301501,Bos taurus,38-42,ACE-inhibitory,10.1080/00021369.1985.10866901,1,6,,,
+P02662,FFVAPFPEVFGK,Alpha-S1-casein,DMD301501,Bos taurus,38-49,ACE-inhibitory,10.1016/s0014-5793(02)03576-7,3,18,ACE activity inhibition,100% ACE Inhibition,"D.W. Cushman,?H.S. Cheung,?Biochem. Pharmacol.,?20, (1971),"
+P02662,FPEVFGK,Alpha-S1-casein,DMD301501,Bos taurus,43-49,ACE-inhibitory,10.1080/00021369.1987.10868244,NA,140,,,
+P02662,FVAPFPEVFG,Alpha-S1-casein,DMD301501,Bos taurus,39-48,ACE-inhibitory,10.1021/jf049510t,NA,650,ACE activity inhibition,100% ACE Inhibition,(Mentioned in the study)
+P02662,FYPEL,Alpha-S1-casein,DMD301501,Bos taurus,160-164,Antioxidant,10.1016/j.idairyj.2013.05.008,1,127.5,,,
+P02662,FYPEL,Alpha-S1-casein,DMD301501,Bos taurus,160-164,ACE-inhibitory,10.1016/j.idairyj.2013.05.008,1,80.6,,,
+P02662,GAW,Alpha-S1-casein,DMD301501,Bos taurus,177-179,ACE-inhibitory,10.1016/j.idairyj.2006.07.004,NA,240,,,
+P02662,GTQYTDAPSFSDIPNPIGSENSEKTTMPLW,Alpha-S1-casein,DMD301501,Bos taurus,185-214,ACE-inhibitory,10.3168/jds.S0022-0302(94)77026-0,NA,346,ACE Inhibition,100% ACE Inhibition,Cushman and Cheung (1977)
+P02662,IGSENSEKTTMP,Alpha-S1-casein,DMD301501,Bos taurus,201-212,ACE-inhibitory,10.1128/AEM.00096-07,NA,773.1,,,
+P02662,IVP,Alpha-S1-casein,DMD301501,Bos taurus,"86-88, 126-128",ACE-inhibitory,10.1016/j.idairyj.2013.10.009,NA,49.7,,,
+P02662,LAYFYP,Alpha-S1-casein,DMD301501,Bos taurus,157-162,ACE-inhibitory,10.1016/S0958-6946(98)00048-X,NA,65,,,
+P02662,LGY,Alpha-S1-casein,DMD301501,Bos taurus,107-109,ACE-inhibitory,10.1016/j.idairyj.2013.05.008,1,21.46,,,
+P02662,LNENLLRFFVAPFPEVFG,Alpha-S1-casein,DMD301501,Bos taurus,31-48,ACE-inhibitory,10.1021/jf049510t,NA,280,ACE activity inhibition,100% ACE Inhibition,(Mentioned in the study)
+P02662,LRFF,Alpha-S1-casein,DMD301501,Bos taurus,36-39,ACE-inhibitory,10.1016/j.jff.2015.04.043,NA,116.9,,,
+P02662,LW,Alpha-S1-casein,DMD301501,Bos taurus,213-214,ACE-inhibitory,10.1080/1475636031000138723,1,15,ACE Inhibition,100% ACE Inhibition,"Maeno, M., Yamamoto, N. and Takano, T. (1996)"
+P02662,NENLLRFFVAPFPEVFG,Alpha-S1-casein,DMD301501,Bos taurus,32-48,ACE-inhibitory,10.1021/jf049510t,NA,55,ACE activity inhibition,100% ACE Inhibition,(Mentioned in the study)
+P02662,PEL,Alpha-S1-casein,DMD301501,Bos taurus,162-164,Antioxidant,10.1016/s0955-2863(99)00083-2,NA,306,Reduction of superoxide anion production (Tetrazolium salt XTT method),100% Reduction of superoxide anion production (Tetrazolium salt XTT method),"H.?Ukeda,?S.?Maeda,?T.?Ishii,?M.?Sawamura (1997)"
+P02662,PFPEVFGK,Alpha-S1-casein,DMD301501,Bos taurus,42-49,ACE-inhibitory,10.3168/jds.2015-10437,NA,108,,,
+P02662,PKHP,Alpha-S1-casein,DMD301501,Bos taurus,17-20,ACE-inhibitory,10.1016/j.chroma.2004.05.022,NA,709.1,,,
+P02662,RPK,Alpha-S1-casein,DMD301501,Bos taurus,16-18,ACE-inhibitory,10.3168/jds.S0022-0302(06)72370-0,NA,91.8,,,
+P02662,RPKHPIKHQ,Alpha-S1-casein,DMD301501,Bos taurus,16-24,ACE-inhibitory,10.3168/jds.S0022-0302(00)75013-2,NA,13.4,,,
+P02662,RY,Alpha-S1-casein,DMD301501,Bos taurus,105-106,ACE-inhibitory,10.1016/j.idairyj.2013.05.008,NA,54.43,,,
+P02662,RYL,Alpha-S1-casein,DMD301501,Bos taurus,105-107,ACE-inhibitory,10.1016/j.idairyj.2013.05.008,NA,106.64,,,
+P02662,RYLG,Alpha-S1-casein,DMD301501,Bos taurus,105-108,ACE-inhibitory,10.1016/j.idairyj.2013.05.008,NA,224.69,,,
+P02662,RYLGY,Alpha-S1-casein,DMD301501,Bos taurus,105-109,ACE-inhibitory,10.3390/foods9080991,2,3.08,,,
+P02662,TTMP,Alpha-S1-casein,DMD301501,Bos taurus,209-212,ACE-inhibitory,10.1128/AEM.00096-07,NA,51,,,
+P02662,TTMPLW,Alpha-S1-casein,DMD301501,Bos taurus,209-214,ACE-inhibitory,10.1016/s0014-5793(02)03576-7,2,12,ACE activity inhibition,100% ACE Inhibition,"D.W. Cushman,?H.S. Cheung,?Biochem. Pharmacol.,?20, (1971),"
+P02662,YFYPEL,Alpha-S1-casein,DMD301501,Bos taurus,159-164,Antioxidant,10.3390/foods9080991,2,79.2,,,
+P02662,YFYPEL,Alpha-S1-casein,DMD301501,Bos taurus,159-164,ACE-inhibitory,10.3390/foods9080991,NA,8.82,,,
+P02662,YKVPQL,Alpha-S1-casein,DMD301501,Bos taurus,119-124,ACE-inhibitory,10.3168/jds.S0022-0302(96)76487-1,NA,22,,,
+P02662,YL,Alpha-S1-casein,DMD301501,Bos taurus,"106-107, 109-110",ACE-inhibitory,10.1515/bchm3.1996.377.4.259,NA,122.1,ACE Inhibition,100% ACE Inhibition,Cushman and Chung (1971)
+P02662,YLGY,Alpha-S1-casein,DMD301501,Bos taurus,106-109,ACE-inhibitory,10.1016/j.idairyj.2013.05.008,1,41.86,,,
+P02662,YLGYLE,Alpha-S1-casein,DMD301501,Bos taurus,106-111,ACE-inhibitory,10.3390/foods9080991,NA,85.76,,,
+P02662,YY,Alpha-S1-casein,DMD301501,Bos taurus,180-181,ACE-inhibitory,10.1080/1475636031000138723,NA,9,ACE Inhibition,100% ACE Inhibition,"Maeno, M., Yamamoto, N. and Takano, T. (1996)"
+P02663,ALNEINQFY,Alpha-S2-casein,DMD301502,Bos taurus,96-104,ACE-inhibitory,10.1016/s0014-5793(02)03576-7,NA,219,ACE activity inhibition,100% ACE Inhibition,"D.W. Cushman,?H.S. Cheung,?Biochem. Pharmacol.,?20, (1971),"
+P02663,ALNEINQFYQK,Alpha-S2-casein,DMD301502,Bos taurus,96-106,ACE-inhibitory,10.1016/s0014-5793(02)03576-7,NA,264,ACE activity inhibition,100% ACE Inhibition,"D.W. Cushman,?H.S. Cheung,?Biochem. Pharmacol.,?20, (1971),"
+P02663,AMKPW,Alpha-S2-casein,DMD301502,Bos taurus,204-208,ACE-inhibitory,10.3168/jds.S0022-0302(96)76487-1,NA,580,,,
+P02663,AMKPWIQPK,Alpha-S2-casein,DMD301502,Bos taurus,204-212,ACE-inhibitory,10.3168/jds.S0022-0302(96)76487-1,NA,600,,,
+P02663,FALPQY,Alpha-S2-casein,DMD301502,Bos taurus,189-194,ACE-inhibitory,10.1016/s0014-5793(02)03576-7,NA,4.3,ACE activity inhibition,100% ACE Inhibition,"D.W. Cushman,?H.S. Cheung,?Biochem. Pharmacol.,?20, (1971),"
+P02663,FALPQYLK,Alpha-S2-casein,DMD301502,Bos taurus,189-196,ACE-inhibitory,10.1016/s0014-5793(02)03576-7,2,4.3,ACE activity inhibition,100% ACE Inhibition,"D.W. Cushman,?H.S. Cheung,?Biochem. Pharmacol.,?20, (1971),"
+P02663,FPQY,Alpha-S2-casein,DMD301502,Bos taurus,107-110,ACE-inhibitory,10.1016/j.idairyj.2013.05.008,NA,300.74,,,
+P02663,FPQYLQY,Alpha-S2-casein,DMD301502,Bos taurus,107-113,ACE-inhibitory,10.1016/s0014-5793(02)03576-7,NA,14,ACE activity inhibition,100% ACE Inhibition,"D.W. Cushman,?H.S. Cheung,?Biochem. Pharmacol.,?20, (1971),"
+P02663,INP,Alpha-S2-casein,DMD301502,Bos taurus,43-45,ACE-inhibitory,10.1016/j.idairyj.2013.10.009,NA,71.2,,,
+P02663,IQP,Alpha-S2-casein,DMD301502,Bos taurus,209-211,ACE-inhibitory,10.1016/j.idairyj.2013.10.009,NA,106.7,,,
+P02663,ITP,Alpha-S2-casein,DMD301502,Bos taurus,134-136,ACE-inhibitory,10.1016/j.foodchem.2015.04.130,NA,14.9,,,
+P02663,MKP,Alpha-S2-casein,DMD301502,Bos taurus,205-207,ACE-inhibitory,10.1016/j.foodchem.2014.09.098,2,0.43,,,
+P02663,MKPWIQPK,Alpha-S2-casein,DMD301502,Bos taurus,205-212,ACE-inhibitory,10.3168/jds.S0022-0302(96)76487-1,NA,300,,,
+P02663,NMAINPSK,Alpha-S2-casein,DMD301502,Bos taurus,40-47,ACE-inhibitory,10.1016/s0014-5793(02)03576-7,NA,60,ACE activity inhibition,100% ACE Inhibition,"D.W. Cushman,?H.S. Cheung,?Biochem. Pharmacol.,?20, (1971),"
+P02663,NMAINPSKENLCSTFCK,Alpha-S2-casein,DMD301502,Bos taurus,40-56,ACE-inhibitory,10.1016/j.foodchem.2018.02.107,NA,129.07,,,
+P02663,PYVRYL,Alpha-S2-casein,DMD301502,Bos taurus,217-222,ACE-inhibitory,10.3390/foods13213392,2,7,,,
+P02663,TKVIP,Alpha-S2-casein,DMD301502,Bos taurus,213-217,ACE-inhibitory,10.3168/jds.S0022-0302(96)76487-1,NA,400,,,
+P02663,TVY,Alpha-S2-casein,DMD301502,Bos taurus,197-199,ACE-inhibitory,10.1016/s0014-5793(02)03576-7,NA,15,ACE activity inhibition,100% ACE Inhibition,"D.W. Cushman,?H.S. Cheung,?Biochem. Pharmacol.,?20, (1971),"
+P02663,TYKQE,Alpha-S2-casein,DMD301502,Bos taurus,34-38,ACE-inhibitory,10.1016/j.idairyj.2007.02.009,NA,18.6,,,
+P02663,VIP,Alpha-S2-casein,DMD301502,Bos taurus,215-217,ACE-inhibitory,10.1016/j.idairyj.2013.10.009,NA,26.1,,,
+P02663,VPITPT,Alpha-S2-casein,DMD301502,Bos taurus,132-137,DPP-IV Inhibitory,10.1016/j.idairyj.2011.08.002,NA,130,DPP-IV Inhibition,100% DPP-IV Inhibition,(Mentioned in the study)
+P02663,VPITPTL,Alpha-S2-casein,DMD301502,Bos taurus,132-138,DPP-IV Inhibitory,10.1016/j.idairyj.2011.08.002,NA,110,DPP-IV Inhibition,100% DPP-IV Inhibition,(Mentioned in the study)
+P02663,WIQP,Alpha-S2-casein,DMD301502,Bos taurus,208-211,ACE-inhibitory,10.1016/j.foodchem.2015.04.130,NA,14.2,,,
+P02663,WIQP,Alpha-S2-casein,DMD301502,Bos taurus,208-211,DPP-IV Inhibitory,10.1016/j.jff.2013.09.012,NA,237.3,DPPIV inhibition percentage,100% DPP-IV inhibition,Nongonierma and FitzGerald (2013a)
+P02663,YQK,Alpha-S2-casein,DMD301502,Bos taurus,"93-95, 104-106, 186-188",ACE-inhibitory,10.1016/j.idairyj.2013.05.008,NA,312.23,,,
+P02666,AQTQSLVYP,Beta-casein,DMD301503,Bos taurus,68-76,ACE-inhibitory,10.1271/bbb1961.54.1101,NA,76,ACE Inhibition,100% ACE Inhibition,Y. Kasahara and Y. Ashihara (1981)
+P02666,AVPYP,Beta-casein,DMD301503,Bos taurus,192-196,ACE-inhibitory,10.1080/00021369.1987.10868244,NA,80,,,
+P02666,AVPYPQR,Beta-casein,DMD301503,Bos taurus,192-198,ACE-inhibitory,10.1016/S0958-6946(98)00048-X,2,274,,,
+P02666,DELQDKIHPFAQTQSLVYPFPGPIPNS,Beta-casein,DMD301503,Bos taurus,58-84,ACE-inhibitory,10.3168/jds.S0022-0302(94)77026-0,NA,4,ACE Inhibition,100% ACE Inhibition,Cushman and Cheung (1977)
+P02666,DKIHPF,Beta-casein,DMD301503,Bos taurus,62-67,ACE-inhibitory,10.1128/AEM.66.9.3898-3904.2000,NA,256.8,,,
+P02666,EMPFPK,Beta-casein,DMD301503,Bos taurus,123-128,ACE-inhibitory,10.1016/S0958-6946(98)00048-X,NA,565.58,,,
+P02666,ENLHLPLPLL,Beta-casein,DMD301503,Bos taurus,146-155,ACE-inhibitory,10.1021/jf049510t,NA,250,ACE activity inhibition,100% ACE Inhibition,(Mentioned in the study)
+P02666,EPVLGPVRGPFP,Beta-casein,DMD301503,Bos taurus,210-221,ACE-inhibitory,10.1128/AEM.00096-07,NA,790,,,
+P02666,FA,Beta-casein,DMD301503,Bos taurus,67-68,ACE-inhibitory,10.1016/j.foodchem.2014.01.056,NA,487.1,ACE activity inhibition,ACE activity inhibited by 100%,"Sentandreu and Toldr? (2006), Norris, Casey, FitzGerald, Shields, and Mooney (2012)"
+P02666,FAQTQSLVYP,Beta-casein,DMD301503,Bos taurus,67-76,ACE-inhibitory,10.1271/bbb1961.54.1101,NA,25,ACE Inhibition,100% ACE Inhibition,Y. Kasahara and Y. Ashihara (1981)
+P02666,FLQP,Beta-casein,DMD301503,Bos taurus,102-105,ACE-inhibitory,10.1016/j.foodchem.2014.01.056,NA,68.7,ACE activity inhibition,ACE activity inhibited by 100%,"Sentandreu and Toldr? (2006), Norris, Casey, FitzGerald, Shields, and Mooney (2012)"
+P02666,FLQP,Beta-casein,DMD301503,Bos taurus,102-105,DPP-IV Inhibitory,10.1016/j.jff.2013.09.012,NA,65.3,DPPIV inhibition percentage,100% DPP-IV inhibition,Nongonierma and FitzGerald (2013a)
+P02666,FPGPIPN,Beta-casein,DMD301503,Bos taurus,77-83,DPP-IV Inhibitory,10.1016/j.idairyj.2011.08.002,NA,260,DPP-IV Inhibition,100% DPP-IV Inhibition,(Mentioned in the study)
+P02666,GP,Beta-casein,DMD301503,Bos taurus,"79-80, 214-215, 218-219",ACE-inhibitory,10.1016/j.foodchem.2014.01.056,NA,252.6,ACE activity inhibition,ACE activity inhibited by 100%,"Sentandreu and Toldr? (2006), Norris, Casey, FitzGerald, Shields, and Mooney (2012)"
+P02666,HPFAQTQSLVYP,Beta-casein,DMD301503,Bos taurus,65-76,ACE-inhibitory,10.1271/bbb1961.54.1101,NA,26,ACE Inhibition,100% ACE Inhibition,Y. Kasahara and Y. Ashihara (1981)
+P02666,HQP,Beta-casein,DMD301503,Bos taurus,"160-162, 163-165",ACE-inhibitory,10.1016/j.foodchem.2014.01.056,NA,134.7,ACE activity inhibition,ACE activity inhibited by 100%,"Sentandreu and Toldr? (2006), Norris, Casey, FitzGerald, Shields, and Mooney (2012)"
+P02666,IHPFAQTQ,Beta-casein,DMD301503,Bos taurus,64-71,Prolyl endopeptidase-inhibitory,10.1271/bbb.56.976,NA,150,,,
+P02666,IHPFAQTQSLVYP,Beta-casein,DMD301503,Bos taurus,64-76,ACE-inhibitory,10.1271/bbb1961.54.1101,NA,19,ACE Inhibition,100% ACE Inhibition,Y. Kasahara and Y. Ashihara (1981)
+P02666,IPPLTQT,Beta-casein,DMD301503,Bos taurus,89-95,DPP-IV Inhibitory,10.1016/j.peptides.2016.03.005,NA,465.1,ACE activity inhibition,100% ACE Inhibition,"A.B.?Nongonierma,?R.J.?FitzGerald (2013)"
+P02666,IQA,Beta-casein,DMD301503,Bos taurus,202-204,ACE-inhibitory,10.1016/j.foodchem.2014.01.056,NA,32.9,ACE activity inhibition,ACE activity inhibited by 100%,"Sentandreu and Toldr? (2006), Norris, Casey, FitzGerald, Shields, and Mooney (2012)"
+P02666,KIHPFAQTQSLVYP,Beta-casein,DMD301503,Bos taurus,63-76,ACE-inhibitory,10.1271/bbb1961.54.1101,NA,39,ACE Inhibition,100% ACE Inhibition,Y. Kasahara and Y. Ashihara (1981)
+P02666,KVLILA,Beta-casein,DMD301503,Bos taurus,7-Feb,ACE-inhibitory,10.1016/S1671-2927(11)60026-6,NA,20.85,,,
+P02666,KVLPVPQ,Beta-casein,DMD301503,Bos taurus,184-190,ACE-inhibitory,10.3168/jds.S0022-0302(96)76487-1,1,1000,,,
+P02666,KYP,Beta-casein,DMD301503,Bos taurus,128-130,ACE-inhibitory,10.1016/j.foodchem.2014.01.056,NA,363.9,ACE activity inhibition,ACE activity inhibited by 100%,"Sentandreu and Toldr? (2006), Norris, Casey, FitzGerald, Shields, and Mooney (2012)"
+P02666,KYPVEPFTESQSLTL,Beta-casein,DMD301503,Bos taurus,128-142,ACE-inhibitory,10.3168/jds.S0022-0302(94)77026-0,NA,93,ACE Inhibition,100% ACE Inhibition,Cushman and Cheung (1977)
+P02666,LHLPLPL,Beta-casein,DMD301503,Bos taurus,148-154,ACE-inhibitory,10.1016/j.idairyj.2005.12.011,NA,425,,,
+P02666,LLYQEPVLGPVR,Beta-casein,DMD301503,Bos taurus,206-217,ACE-inhibitory,10.1016/j.jchromb.2020.122042,NA,274,,,
+P02666,LLYQEPVLGPVRGPFPIIV,Beta-casein,DMD301503,Bos taurus,206-224,ACE-inhibitory,10.3168/jds.S0022-0302(94)77026-0,NA,21,ACE Inhibition,100% ACE Inhibition,Cushman and Cheung (1977)
+P02666,LNVPGEIVE,Beta-casein,DMD301503,Bos taurus,21-29,ACE-inhibitory,10.1128/AEM.66.9.3898-3904.2000,NA,300.1,,,
+P02666,LPL,Beta-casein,DMD301503,Bos taurus,150-152,DPP-IV Inhibitory,10.1016/j.foodchem.2013.08.097,NA,241.4,,,
+P02666,LPLPL,Beta-casein,DMD301503,Bos taurus,150-154,DPP-IV Inhibitory,10.1016/j.peptides.2016.03.005,2,325,ACE activity inhibition,100% ACE Inhibition,"A.B.?Nongonierma,?R.J.?FitzGerald (2013)"
+P02666,LPLPLL,Beta-casein,DMD301503,Bos taurus,150-155,DPP-IV Inhibitory,10.1016/j.peptides.2016.03.005,NA,371.5,ACE activity inhibition,100% ACE Inhibition,"A.B.?Nongonierma,?R.J.?FitzGerald (2013)"
+P02666,LPP,Beta-casein,DMD301503,Bos taurus,166-168,ACE-inhibitory,10.1016/j.foodchem.2014.01.056,NA,9.6,ACE activity inhibition,ACE activity inhibited by 100%,"Sentandreu and Toldr? (2006), Norris, Casey, FitzGerald, Shields, and Mooney (2012)"
+P02666,LPQ,Beta-casein,DMD301503,Bos taurus,85-87,DPP-IV Inhibitory,10.1016/j.idairyj.2011.08.002,NA,82,DPP-IV Inhibition,100% DPP-IV Inhibition,(Mentioned in the study)
+P02666,LPQNIPP,Beta-casein,DMD301503,Bos taurus,85-91,DPP-IV Inhibitory,10.1016/j.idairyj.2011.08.002,NA,160,DPP-IV Inhibition,100% DPP-IV Inhibition,(Mentioned in the study)
+P02666,LPQNIPPLT,Beta-casein,DMD301503,Bos taurus,85-93,DPP-IV Inhibitory,10.1016/j.peptides.2016.03.005,NA,205.2,ACE activity inhibition,100% ACE Inhibition,"A.B.?Nongonierma,?R.J.?FitzGerald (2013)"
+P02666,LPQNIPPLTQTPVVVPPFLQPEVMGVSK,Beta-casein,DMD301503,Bos taurus,85-112,ACE-inhibitory,10.3168/jds.S0022-0302(94)77026-0,NA,144,ACE Inhibition,100% ACE Inhibition,Cushman and Cheung (1977)
+P02666,LPVP,Beta-casein,DMD301503,Bos taurus,186-189,DPP-IV Inhibitory,10.1016/j.foodchem.2017.10.033,NA,87,,,
+P02666,LPVPQ,Beta-casein,DMD301503,Bos taurus,186-190,DPP-IV Inhibitory,10.1016/j.peptides.2016.03.005,NA,43.8,ACE activity inhibition,100% ACE Inhibition,"A.B.?Nongonierma,?R.J.?FitzGerald (2013)"
+P02666,LQP,Beta-casein,DMD301503,Bos taurus,103-105,ACE-inhibitory,10.1017/S0022029908003452,NA,3.4,,,
+P02666,LQSW,Beta-casein,DMD301503,Bos taurus,155-158,ACE-inhibitory,10.3168/jds.S0022-0302(96)76487-1,NA,500,,,
+P02666,LVYP,Beta-casein,DMD301503,Bos taurus,73-76,ACE-inhibitory,10.1271/bbb1961.54.1101,NA,170,ACE Inhibition,100% ACE Inhibition,Y. Kasahara and Y. Ashihara (1981)
+P02666,LVYPFP,Beta-casein,DMD301503,Bos taurus,73-78,ACE-inhibitory,10.1016/j.ijfoodmicro.2013.09.002,NA,132,,,
+P02666,LVYPFPGP,Beta-casein,DMD301503,Bos taurus,73-80,ACE-inhibitory,10.1016/j.idairyj.2007.04.008,NA,147,ACE Inhibition,100% ACE Inhibition,Shalaby et al. (2006)
+P02666,LVYPFPGPIP,Beta-casein,DMD301503,Bos taurus,73-82,ACE-inhibitory,10.1016/j.idairyj.2009.07.003,NA,89,,,
+P02666,LVYPFPGPIPNSLPQ,Beta-casein,DMD301503,Bos taurus,73-87,ACE-inhibitory,10.1016/S0141-0229(97)00261-5,NA,18,,,
+P02666,LVYPFPGPIPNSLPQN,Beta-casein,DMD301503,Bos taurus,73-88,ACE-inhibitory,10.1016/j.idairyj.2009.07.003,NA,71,,,
+P02666,LVYPFPGPIPNSLPQNIPP,Beta-casein,DMD301503,Bos taurus,73-91,ACE-inhibitory,10.1016/j.idairyj.2007.04.008,2,73,ACE Inhibition,100% ACE Inhibition,Shalaby et al. (2006)
+P02666,MAP,Beta-casein,DMD301503,Bos taurus,117-119,ACE-inhibitory,10.1016/j.foodchem.2014.01.056,1,0.4,ACE activity inhibition,ACE activity inhibited by 100%,"Sentandreu and Toldr? (2006), Norris, Casey, FitzGerald, Shields, and Mooney (2012)"
+P02666,MPFPKYPVEP,Beta-casein,DMD301503,Bos taurus,124-133,ACE-inhibitory,10.1128/AEM.00096-07,NA,83,,,
+P02666,NIPPLTQTPV,Beta-casein,DMD301503,Bos taurus,88-97,ACE-inhibitory,10.1128/AEM.66.9.3898-3904.2000,NA,173.3,,,
+P02666,NIPPLTQTPVVVPPFLQ,Beta-casein,DMD301503,Bos taurus,88-104,ACE-inhibitory,10.1128/AEM.00096-07,NA,450,,,
+P02666,NLHLPLPLL,Beta-casein,DMD301503,Bos taurus,147-155,ACE-inhibitory,10.1021/jf049510t,NA,15,ACE activity inhibition,100% ACE Inhibition,(Mentioned in the study)
+P02666,NSLP,Beta-casein,DMD301503,Bos taurus,83-86,ACE-inhibitory,10.1016/j.foodchem.2014.01.056,NA,755.1,ACE activity inhibition,ACE activity inhibited by 100%,"Sentandreu and Toldr? (2006), Norris, Casey, FitzGerald, Shields, and Mooney (2012)"
+P02666,PFP,Beta-casein,DMD301503,Bos taurus,"76-78, 125-127, 219-221",ACE-inhibitory,10.1016/j.chroma.2004.05.022,NA,144.4,,,
+P02666,PGPIPNS,Beta-casein,DMD301503,Bos taurus,78-84,DPP-IV Inhibitory,10.1016/j.idairyj.2011.08.002,NA,1000,DPP-IV Inhibition,100% DPP-IV Inhibition,(Mentioned in the study)
+P02666,PPQSVLSLSQSKVLPVPQ,Beta-casein,DMD301503,Bos taurus,173-190,ACE-inhibitory,10.3168/jds.S0022-0302(94)77026-0,NA,25,ACE Inhibition,100% ACE Inhibition,Cushman and Cheung (1977)
+P02666,PQNIPPL,Beta-casein,DMD301503,Bos taurus,86-92,DPP-IV Inhibitory,10.1016/j.idairyj.2011.08.002,NA,1500,DPP-IV Inhibition,100% DPP-IV Inhibition,(Mentioned in the study)
+P02666,QEPVLGPVRGPFPIIV,Beta-casein,DMD301503,Bos taurus,209-224,ACE-inhibitory,10.3168/jds.2015-9569,NA,600,,,
+P02666,QSLVYP,Beta-casein,DMD301503,Bos taurus,71-76,ACE-inhibitory,10.1271/bbb1961.54.1101,NA,41,ACE Inhibition,100% ACE Inhibition,Y. Kasahara and Y. Ashihara (1981)
+P02666,QTQSLVYP,Beta-casein,DMD301503,Bos taurus,69-76,ACE-inhibitory,10.1271/bbb1961.54.1101,NA,73,ACE Inhibition,100% ACE Inhibition,Y. Kasahara and Y. Ashihara (1981)
+P02666,RDMPIQAF,Beta-casein,DMD301503,Bos taurus,198-205,ACE-inhibitory,10.3168/jds.S0022-0302(94)77026-0,NA,209,ACE Inhibition,100% ACE Inhibition,Cushman and Cheung (1977)
+P02666,RINKK,Beta-casein,DMD301503,Bos taurus,40-44,ACE-inhibitory,10.1016/j.idairyj.2007.02.009,NA,18.32,,,
+P02666,SKVLPVPQ,Beta-casein,DMD301503,Bos taurus,183-190,ACE-inhibitory,10.3168/jds.S0022-0302(94)77026-0,NA,39,ACE Inhibition,100% ACE Inhibition,Cushman and Cheung (1977)
+P02666,SLPQN,Beta-casein,DMD301503,Bos taurus,84-88,ACE-inhibitory,10.1016/j.idairyj.2007.02.009,NA,9.49,,,
+P02666,SLVYP,Beta-casein,DMD301503,Bos taurus,72-76,ACE-inhibitory,10.1271/bbb1961.54.1101,NA,40,ACE Inhibition,100% ACE Inhibition,Y. Kasahara and Y. Ashihara (1981)
+P02666,SQSKVLPVPQ,Beta-casein,DMD301503,Bos taurus,181-190,ACE-inhibitory,10.1128/AEM.00096-07,NA,92,,,
+P02666,TPVVVPPFLQP,Beta-casein,DMD301503,Bos taurus,95-105,ACE-inhibitory,10.3168/jds.S0022-0302(98)75878-3,NA,749,,,
+P02666,TQSLVYP,Beta-casein,DMD301503,Bos taurus,70-76,ACE-inhibitory,10.1271/bbb1961.54.1101,NA,64,ACE Inhibition,100% ACE Inhibition,Y. Kasahara and Y. Ashihara (1981)
+P02666,VENLHLPLPLL,Beta-casein,DMD301503,Bos taurus,145-155,ACE-inhibitory,10.1021/jf049510t,NA,175,ACE activity inhibition,100% ACE Inhibition,(Mentioned in the study)
+P02666,VEP,Beta-casein,DMD301503,Bos taurus,131-133,ACE-inhibitory,10.1016/j.foodchem.2014.01.056,NA,63.7,ACE activity inhibition,ACE activity inhibited by 100%,"Sentandreu and Toldr? (2006), Norris, Casey, FitzGerald, Shields, and Mooney (2012)"
+P02666,VLGP,Beta-casein,DMD301503,Bos taurus,212-215,ACE-inhibitory,10.1016/j.foodchem.2014.01.056,NA,153.5,ACE activity inhibition,ACE activity inhibited by 100%,"Sentandreu and Toldr? (2006), Norris, Casey, FitzGerald, Shields, and Mooney (2012)"
+P02666,VLGP,Beta-casein,DMD301503,Bos taurus,212-215,DPP-IV Inhibitory,10.1016/j.jff.2013.09.012,NA,580.4,DPPIV inhibition percentage,100% DPP-IV inhibition,Nongonierma and FitzGerald (2013a)
+P02666,VLGPVRGPFP,Beta-casein,DMD301503,Bos taurus,212-221,ACE-inhibitory,10.1016/j.idairyj.2005.12.011,1,137,,,
+P02666,VLPVPQK,Beta-casein,DMD301503,Bos taurus,185-191,ACE-inhibitory,10.1016/j.foodchem.2015.05.121,NA,15,,,
+P02666,VP,Beta-casein,DMD301503,Bos taurus,"23-24, 99-100, 188-189, 193-194",ACE-inhibitory,10.1016/j.foodchem.2014.01.056,NA,420,ACE activity inhibition,ACE activity inhibited by 100%,"Sentandreu and Toldr? (2006), Norris, Casey, FitzGerald, Shields, and Mooney (2012)"
+P02666,VPGEIVE,Beta-casein,DMD301503,Bos taurus,23-29,DPP-IV Inhibitory,10.1016/j.peptides.2016.03.005,NA,224.5,ACE activity inhibition,100% ACE Inhibition,"A.B.?Nongonierma,?R.J.?FitzGerald (2013)"
+P02666,VPP,Beta-casein,DMD301503,Bos taurus,99-101,ACE-inhibitory,10.1016/j.idairyj.2007.02.009,1,8.4,,,
+P02666,VRGPFPIIV,Beta-casein,DMD301503,Bos taurus,216-224,ACE-inhibitory,10.1016/j.idairyj.2005.12.011,1,600,,,
+P02666,VVPP,Beta-casein,DMD301503,Bos taurus,98-101,ACE-inhibitory,10.1016/S1671-2927(11)60026-6,NA,258.21,,,
+P02666,VYP,Beta-casein,DMD301503,Bos taurus,74-76,ACE-inhibitory,10.3168/jds.S0022-0302(98)75878-3,NA,288,,,
+P02666,VYPFPG,Beta-casein,DMD301503,Bos taurus,74-79,ACE-inhibitory,10.3168/jds.S0022-0302(98)75878-3,NA,221,,,
+P02666,VYPFPGPI,Beta-casein,DMD301503,Bos taurus,74-81,Prolyl endopeptidase-inhibitory,10.1271/bbb.56.976,NA,110,,,
+P02666,VYPFPGPIP,Beta-casein,DMD301503,Bos taurus,74-82,Prolyl endopeptidase-inhibitory,10.1271/bbb.56.976,NA,50,,,
+P02666,VYPFPGPIPN,Beta-casein,DMD301503,Bos taurus,74-83,Antioxidant,10.1007/s00217-012-1894-5,1,6.2,,,
+P02666,VYPFPGPIPN,Beta-casein,DMD301503,Bos taurus,74-83,ACE-inhibitory,10.1007/s00217-012-1894-5,NA,325,,,
+P02666,VYPFPGPIPNSLPQNIPP,Beta-casein,DMD301503,Bos taurus,74-91,ACE-inhibitory,10.1016/j.idairyj.2007.04.008,NA,87,ACE Inhibition,100% ACE Inhibition,Shalaby et al. (2006)
+P02666,YPFPGP,Beta-casein,DMD301503,Bos taurus,75-80,DPP-IV Inhibitory,10.1016/j.peptides.2016.03.005,NA,749.2,ACE activity inhibition,100% ACE Inhibition,"A.B.?Nongonierma,?R.J.?FitzGerald (2013)"
+P02666,YPFPGPI,Beta-casein,DMD301503,Bos taurus,75-81,ACE-inhibitory,10.3390/foods9080991,2,685.91,,,
+P02666,YPFPGPIP,Beta-casein,DMD301503,Bos taurus,75-82,ACE-inhibitory,10.3390/foods9080991,NA,224.05,,,
+P02666,YPFPGPIPN,Beta-casein,DMD301503,Bos taurus,75-83,ACE-inhibitory,10.3390/foods9080991,2,378.65,,,
+P02666,YPFPGPIPN,Beta-casein,DMD301503,Bos taurus,75-83,DPP-IV Inhibitory,10.1016/j.idairyj.2011.08.002,NA,670,DPP-IV Inhibition,100% DPP-IV Inhibition,(Mentioned in the study)
+P02666,YPVEPF,Beta-casein,DMD301503,Bos taurus,129-134,DPP-IV Inhibitory,10.1016/j.peptides.2016.03.005,1,124.7,ACE activity inhibition,100% ACE Inhibition,"A.B.?Nongonierma,?R.J.?FitzGerald (2013)"
+P02666,YQEPVL,Beta-casein,DMD301503,Bos taurus,208-213,ACE-inhibitory,10.1016/S0958-6946(98)00048-X,1,280,,,
+P02666,YQEPVLGPVR,Beta-casein,DMD301503,Bos taurus,208-217,ACE-inhibitory,10.3168/jds.2015-9569,NA,300,,,
+P02666,YQEPVLGPVRGPFPIIV,Beta-casein,DMD301503,Bos taurus,208-224,ACE-inhibitory,10.3168/jds.S0022-0302(94)77026-0,NA,101,ACE Inhibition,100% ACE Inhibition,Cushman and Cheung (1977)
+P02754,ALPM,Beta-lactoglobulin,DMD301504,Bos taurus,158-161,ACE-inhibitory,10.3168/jds.S0022-0302(04)70013-2,NA,928,,,
+P02754,ALPMH,Beta-lactoglobulin,DMD301504,Bos taurus,158-162,ACE-inhibitory,10.1017/s0022029999003982,NA,521,ACE activity inhibition,100% ACE Inhibition,"Cushman & Cheung (1971), Nakamura et al. (1995)"
+P02754,ALPMHIR,Beta-lactoglobulin,DMD301504,Bos taurus,158-164,ACE-inhibitory,10.1016/j.foodchem.2014.09.098,1,14,,,
+P02754,CMENSA,Beta-lactoglobulin,DMD301504,Bos taurus,122-127,ACE-inhibitory,10.1017/s0022029999003982,NA,788,ACE activity inhibition,100% ACE Inhibition,"Cushman & Cheung (1971), Nakamura et al. (1995)"
+P02754,DAQSAPLRVY,Beta-lactoglobulin,DMD301504,Bos taurus,49-58,ACE-inhibitory,10.1016/j.foodchem.2011.09.052,2,11.62,,,
+P02754,GLDIQK,Beta-lactoglobulin,DMD301504,Bos taurus,25-30,ACE-inhibitory,10.1016/S0958-6946(98)00048-X,NA,580,,,
+P02754,GTW,Beta-lactoglobulin,DMD301504,Bos taurus,33-35,ACE-inhibitory,10.1016/j.idairyj.2006.07.004,NA,464.4,,,
+P02754,HIR,Beta-lactoglobulin,DMD301504,Bos taurus,162-164,ACE-inhibitory,10.3168/jds.S0022-0302(04)70013-2,NA,953,,,
+P02754,IAEK,Beta-lactoglobulin,DMD301504,Bos taurus,88-91,ACE-inhibitory,10.1021/acs.jafc.9b06237,NA,25.08,,,
+P02754,IIAEK,Beta-lactoglobulin,DMD301504,Bos taurus,87-91,ACE-inhibitory,10.1016/j.jff.2014.04.002,NA,63.7,,,
+P02754,IPA,Beta-lactoglobulin,DMD301504,Bos taurus,94-96,DPP-IV Inhibitory,10.1016/j.peptides.2011.01.002,NA,49,,,
+P02754,IPA,Beta-lactoglobulin,DMD301504,Bos taurus,94-96,ACE-inhibitory,10.3168/jds.S0022-0302(98)75878-3,NA,141,,,
+P02754,IPAVF,Beta-lactoglobulin,DMD301504,Bos taurus,94-98,DPP-IV Inhibitory,10.1016/j.foodchem.2013.03.056,NA,44.7,,,
+P02754,IPAVF,Beta-lactoglobulin,DMD301504,Bos taurus,94-98,ACE-inhibitory,10.1021/acs.jafc.9b06237,NA,9.09,,,
+P02754,IPAVFK,Beta-lactoglobulin,DMD301504,Bos taurus,94-99,DPP-IV Inhibitory,10.1016/j.jff.2014.04.002,2,149.1,,,
+P02754,IPAVFK,Beta-lactoglobulin,DMD301504,Bos taurus,94-99,ACE-inhibitory,10.1016/j.jff.2014.04.002,NA,144.8,,,
+P02754,IPAVFKIDA,Beta-lactoglobulin,DMD301504,Bos taurus,94-102,DPP-IV Inhibitory,10.1016/j.peptides.2014.01.002,NA,191,DPP-IV Inhibition,100% DPP-IV inhibition,"I.M.E.?Lacroix,?E.C.Y.?Li-Chan (2013)"
+P02754,IQKVAGTW,Beta-lactoglobulin,DMD301504,Bos taurus,28-35,ACE-inhibitory,10.1016/j.jff.2015.11.038,1,51,ACE Inhibition,100% ACE Inhibition,Cheung and Li-Chan (2010)
+P02754,IQKVAGTW,Beta-lactoglobulin,DMD301504,Bos taurus,28-35,DPP-IV Inhibitory,10.1016/j.jff.2015.11.038,NA,329,DPP-IV Inhibition,100% DPP-IV inhibition,?Lacroix and Li-Chan (2014)
+P02754,IR,Beta-lactoglobulin,DMD301504,Bos taurus,163-164,ACE-inhibitory,10.3168/jds.S0022-0302(04)70013-2,NA,695,,,
+P02754,LAMA,Beta-lactoglobulin,DMD301504,Bos taurus,38-41,ACE-inhibitory,10.1017/s0022029999003982,NA,556,ACE activity inhibition,100% ACE Inhibition,"Cushman & Cheung (1971), Nakamura et al. (1995)"
+P02754,LDAQSAPLR,Beta-lactoglobulin,DMD301504,Bos taurus,48-56,ACE-inhibitory,10.1017/s0022029999003982,NA,635,ACE activity inhibition,100% ACE Inhibition,"Cushman & Cheung (1971), Nakamura et al. (1995)"
+P02754,LDIQK,Beta-lactoglobulin,DMD301504,Bos taurus,26-30,ACE-inhibitory,10.1016/j.chroma.2006.03.006,NA,27.6,,,
+P02754,LDTDY,Beta-lactoglobulin,DMD301504,Bos taurus,111-115,ACE-inhibitory,10.1016/j.jff.2015.11.038,NA,121,ACE Inhibition,100% ACE Inhibition,Cheung and Li-Chan (2010)
+P02754,LF,Beta-lactoglobulin,DMD301504,Bos taurus,120-121,ACE-inhibitory,10.1515/bchm3.1996.377.4.259,NA,349.1,ACE Inhibition,100% ACE Inhibition,Cushman and Chung (1971)
+P02754,LKALPMH,Beta-lactoglobulin,DMD301504,Bos taurus,156-162,ACE-inhibitory,10.1016/j.jff.2015.11.038,NA,11,ACE Inhibition,100% ACE Inhibition,Cheung and Li-Chan (2010)
+P02754,LKALPMH,Beta-lactoglobulin,DMD301504,Bos taurus,156-162,DPP-IV Inhibitory,10.1016/j.jff.2015.11.038,NA,193,DPP-IV Inhibition,100% DPP-IV inhibition,?Lacroix and Li-Chan (2014)
+P02754,LKPTPEGDL,Beta-lactoglobulin,DMD301504,Bos taurus,62-70,DPP-IV Inhibitory,10.1016/j.peptides.2014.01.002,1,45,DPP-IV Inhibition,100% DPP-IV inhibition,"I.M.E.?Lacroix,?E.C.Y.?Li-Chan (2013)"
+P02754,LKPTPEGDLE,Beta-lactoglobulin,DMD301504,Bos taurus,62-71,DPP-IV Inhibitory,10.1016/j.peptides.2014.01.002,NA,45,DPP-IV Inhibition,100% DPP-IV inhibition,"I.M.E.?Lacroix,?E.C.Y.?Li-Chan (2013)"
+P02754,LKPTPEGDLEIL,Beta-lactoglobulin,DMD301504,Bos taurus,62-73,DPP-IV Inhibitory,10.1016/j.peptides.2014.01.002,NA,57,DPP-IV Inhibition,100% DPP-IV inhibition,"I.M.E.?Lacroix,?E.C.Y.?Li-Chan (2013)"
+P02754,LSFNPTQ,Beta-lactoglobulin,DMD301504,Bos taurus,165-171,ACE-inhibitory,10.1016/j.jff.2015.11.038,NA,106,ACE Inhibition,100% ACE Inhibition,Cheung and Li-Chan (2010)
+P02754,MHI,Beta-lactoglobulin,DMD301504,Bos taurus,161-163,ACE-inhibitory,10.1021/acs.jafc.9b06237,NA,11.59,,,
+P02754,MKG,Beta-lactoglobulin,DMD301504,Bos taurus,23-25,ACE-inhibitory,10.1016/j.chroma.2006.03.006,NA,71.8,,,
+P02754,TPEVDDEALEK,Beta-lactoglobulin,DMD301504,Bos taurus,141-151,DPP-IV Inhibitory,10.1016/j.jff.2014.04.002,2,578.7,,,
+P02754,VAGTWY,Beta-lactoglobulin,DMD301504,Bos taurus,31-36,DPP-IV Inhibitory,10.1016/j.jff.2014.04.002,NA,74.9,,,
+P02754,VAGTWY,Beta-lactoglobulin,DMD301504,Bos taurus,31-36,ACE-inhibitory,10.1017/s0022029999003982,NA,767.5,ACE activity inhibition,100% ACE Inhibition,"Cushman & Cheung (1971), Nakamura et al. (1995)"
+P02754,VLDTDY,Beta-lactoglobulin,DMD301504,Bos taurus,110-115,ACE-inhibitory,10.1016/j.jff.2015.11.038,NA,128,ACE Inhibition,100% ACE Inhibition,Cheung and Li-Chan (2010)
+P02754,VLDTDY,Beta-lactoglobulin,DMD301504,Bos taurus,110-115,DPP-IV Inhibitory,10.1016/j.jff.2015.11.038,NA,471,DPP-IV Inhibition,100% DPP-IV inhibition,?Lacroix and Li-Chan (2014)
+P02754,VLDTDYK,Beta-lactoglobulin,DMD301504,Bos taurus,110-116,ACE-inhibitory,10.1017/s0022029999003982,NA,946,ACE activity inhibition,100% ACE Inhibition,"Cushman & Cheung (1971), Nakamura et al. (1995)"
+P02754,VLVLDTDYK,Beta-lactoglobulin,DMD301504,Bos taurus,108-116,DPP-IV Inhibitory,10.1016/j.foodchem.2013.03.056,NA,424.4,,,
+P02754,WY,Beta-lactoglobulin,DMD301504,Bos taurus,35-36,ACE-inhibitory,10.1021/jf063427j,NA,38.3,,,
+P02754,WYSL,Beta-lactoglobulin,DMD301504,Bos taurus,35-38,ACE-inhibitory,10.1021/jf063427j,NA,90.4,,,
+P02754,WYSLA,Beta-lactoglobulin,DMD301504,Bos taurus,35-39,ACE-inhibitory,10.1021/jf063427j,NA,86.9,,,
+P02754,WYSLAM,Beta-lactoglobulin,DMD301504,Bos taurus,35-40,ACE-inhibitory,10.1021/jf063427j,NA,56.3,,,
+P02754,WYSLAMA,Beta-lactoglobulin,DMD301504,Bos taurus,35-41,ACE-inhibitory,10.1021/jf063427j,NA,59.9,,,
+P02754,YLL,Beta-lactoglobulin,DMD301504,Bos taurus,118-120,ACE-inhibitory,10.3390/foods9080991,NA,518.54,,,
+P02754,YLLF,Beta-lactoglobulin,DMD301504,Bos taurus,118-121,ACE-inhibitory,10.1515/bchm3.1996.377.4.259,NA,172,ACE Inhibition,100% ACE Inhibition,Cushman and Chung (1971)
+P01966,KLLSHSL,Hemoglobin subunit alpha,DMD301643,Bos taurus,100-106,ACE-inhibitory,10.1007/s00217-011-1430-z,NA,42.51,,,
+P02668,AIPPKKNQD,Kappa-casein,DMD301505,Bos taurus,128-136,ACE-inhibitory,10.1002/jsfa.3394,NA,19.9,,,
+P02668,ARHPH,Kappa-casein,DMD301505,Bos taurus,117-121,ACE-inhibitory,10.1016/j.idairyj.2007.02.009,NA,15.15,,,
+P02668,DERF,Kappa-casein,DMD301505,Bos taurus,35-38,ACE-inhibitory,10.1016/j.foodchem.2010.05.026,NA,37.08,,,
+P02668,FSDKIAK,Kappa-casein,DMD301505,Bos taurus,39-45,ACE-inhibitory,10.1051/lait:2007019,NA,113.6,,,
+P02668,IAK,Kappa-casein,DMD301505,Bos taurus,43-45,ACE-inhibitory,10.1002/elps.200700324,2,15.7,,,
+P02668,IPI,Kappa-casein,DMD301505,Bos taurus,47-49,DPP-IV Inhibitory,10.1016/j.jff.2013.09.012,1,3.5,DPPIV inhibition percentage,100% DPP-IV inhibition,Nongonierma and FitzGerald (2013a)
+P02668,IPIQY,Kappa-casein,DMD301505,Bos taurus,47-51,DPP-IV Inhibitory,10.1016/j.foodchem.2013.08.097,1,35.2,,,
+P02668,IPP,Kappa-casein,DMD301505,Bos taurus,129-131,ACE-inhibitory,10.1016/j.idairyj.2007.02.009,2,11.6,,,
+P02668,IQY,Kappa-casein,DMD301505,Bos taurus,49-51,ACE-inhibitory,10.1051/lait:2007019,NA,70.4,,,
+P02668,LPYPY,Kappa-casein,DMD301505,Bos taurus,77-81,ACE-inhibitory,10.1002/elps.200700324,1,28.9,,,
+P02668,LPYPY,Kappa-casein,DMD301505,Bos taurus,77-81,DPP-IV Inhibitory,10.1016/j.foodchem.2013.08.097,1,108.3,,,
+P02668,QP,Kappa-casein,DMD301505,Bos taurus,"28-29, 112-113",ACE-inhibitory,10.1016/j.chroma.2004.05.022,NA,598.1,,,
+P02668,RYPSYG,Kappa-casein,DMD301505,Bos taurus,55-60,ACE-inhibitory,10.1016/j.foodchem.2010.05.026,NA,65.71,,,
+P02668,SY,Kappa-casein,DMD301505,Bos taurus,58-59,ACE-inhibitory,10.1080/1475636031000138723,NA,41,ACE Inhibition,100% ACE Inhibition,"Maeno, M., Yamamoto, N. and Takano, T. (1996)"
+P02668,VLSRYP,Kappa-casein,DMD301505,Bos taurus,52-57,ACE-inhibitory,10.1016/j.jff.2015.04.043,NA,36.7,,,
+P02668,YPY,Kappa-casein,DMD301505,Bos taurus,79-81,DPP-IV Inhibitory,10.1016/j.foodchem.2013.08.097,NA,243.7,,,
+P24627,AY,Lactotransferrin,DMD301511,Bos taurus,184-185,ACE-inhibitory,10.1080/1475636031000138723,NA,40,ACE Inhibition,100% ACE Inhibition,"Maeno, M., Yamamoto, N. and Takano, T. (1996)"
+P24627,CRRWQWR,Lactotransferrin,DMD301511,Bos taurus,38-44,ACE-inhibitory,10.1021/jf100899u,NA,2.3,ACE Inhibition,100% ACE Inhibition,(Mentioned in the study)
+P24627,DPYKLRP,Lactotransferrin,DMD301511,Bos taurus,89-95,ACE-inhibitory,10.1021/jf4053868,NA,30.5,ACE Inhibition,100% ACE Inhibition,"Sentandreu, M. A.;?Toldr?, F. (2006)"
+P24627,FKCRRW,Lactotransferrin,DMD301511,Bos taurus,36-41,ACE-inhibitory,10.1021/jf100899u,NA,26.7,ACE Inhibition,100% ACE Inhibition,(Mentioned in the study)
+P24627,FKCRRWQW,Lactotransferrin,DMD301511,Bos taurus,36-43,ACE-inhibitory,10.1021/jf100899u,NA,10.5,ACE Inhibition,100% ACE Inhibition,(Mentioned in the study)
+P24627,FKCRRWQWRMKKLGAP,Lactotransferrin,DMD301511,Bos taurus,36-51,ACE-inhibitory,10.1021/jf100899u,NA,11,ACE Inhibition,100% ACE Inhibition,(Mentioned in the study)
+P24627,GILRP,Lactotransferrin,DMD301511,Bos taurus,149-153,ACE-inhibitory,10.1021/jf4053868,NA,90.7,ACE Inhibition,100% ACE Inhibition,"Sentandreu, M. A.;?Toldr?, F. (2006)"
+P24627,KCRRWQWR,Lactotransferrin,DMD301511,Bos taurus,37-44,ACE-inhibitory,10.1021/jf100899u,NA,5.8,ACE Inhibition,100% ACE Inhibition,(Mentioned in the study)
+P24627,KLRP,Lactotransferrin,DMD301511,Bos taurus,92-95,ACE-inhibitory,10.1021/jf4053868,NA,91.6,ACE Inhibition,100% ACE Inhibition,"Sentandreu, M. A.;?Toldr?, F. (2006)"
+P24627,LIWKL,Lactotransferrin,DMD301511,Bos taurus,285-289,ACE-inhibitory,10.1016/j.foodchem.2011.08.076,NA,0.47,,,
+P24627,LNNSRAP,Lactotransferrin,DMD301511,Bos taurus,251-257,ACE-inhibitory,10.1016/j.foodchem.2011.08.076,NA,105.3,,,
+P24627,LRP,Lactotransferrin,DMD301511,Bos taurus,"93-95, 151-153, 446-448",ACE-inhibitory,10.1021/jf4053868,NA,0.35,ACE Inhibition,100% ACE Inhibition,"Sentandreu, M. A.;?Toldr?, F. (2006)"
+P24627,LRPVAA,Lactotransferrin,DMD301511,Bos taurus,93-98,ACE-inhibitory,PMID: 16830788,NA,4.14,,,
+P24627,LY,Lactotransferrin,DMD301511,Bos taurus,337-338,ACE-inhibitory,10.1080/1475636031000138723,NA,44,ACE Inhibition,100% ACE Inhibition,"Maeno, M., Yamamoto, N. and Takano, T. (1996)"
+P24627,PYKLRP,Lactotransferrin,DMD301511,Bos taurus,90-95,ACE-inhibitory,10.1021/jf4053868,NA,10.2,ACE Inhibition,100% ACE Inhibition,"Sentandreu, M. A.;?Toldr?, F. (2006)"
+P24627,RPYL,Lactotransferrin,DMD301511,Bos taurus,152-155,ACE-inhibitory,10.1016/j.foodchem.2011.08.076,NA,56.5,,,
+P24627,RRWQWR,Lactotransferrin,DMD301511,Bos taurus,39-44,ACE-inhibitory,10.1021/jf100899u,NA,32,ACE Inhibition,100% ACE Inhibition,(Mentioned in the study)
+P24627,WI,Lactotransferrin,DMD301511,Bos taurus,144-145,DPP-IV Inhibitory,10.1016/j.foodres.2015.09.012,NA,138.7,,,
+P24627,YKLRP,Lactotransferrin,DMD301511,Bos taurus,91-95,ACE-inhibitory,10.1021/jf4053868,NA,16.5,ACE Inhibition,100% ACE Inhibition,"Sentandreu, M. A.;?Toldr?, F. (2006)"
+P24627,YP,Lactotransferrin,DMD301511,Bos taurus,185-186,ACE-inhibitory,10.1016/j.foodchem.2014.01.056,2,720,ACE activity inhibition,ACE activity inhibited by 100%,"Sentandreu and Toldr? (2006), Norris, Casey, FitzGerald, Shields, and Mooney (2012)"
+P24627,YP,Lactotransferrin,DMD301511,Bos taurus,185-186,DPP-IV Inhibitory,10.1016/j.foodchem.2013.08.097,NA,658.1,,,
+P02769,FP,Serum albumin,DMD301510,Bos taurus,246-247,ACE-inhibitory,10.1016/j.foodchem.2014.01.056,3,315,ACE activity inhibition,ACE activity inhibited by 100%,"Sentandreu and Toldr? (2006), Norris, Casey, FitzGerald, Shields, and Mooney (2012)"
+P02769,IP,Serum albumin,DMD301510,Bos taurus,321-322,ACE-inhibitory,10.1016/j.foodchem.2014.01.056,NA,130,ACE activity inhibition,ACE activity inhibited by 100%,"Sentandreu and Toldr? (2006), Norris, Casey, FitzGerald, Shields, and Mooney (2012)"
+P02769,IP,Serum albumin,DMD301510,Bos taurus,321-322,DPP-IV Inhibitory,10.1016/j.jff.2013.09.012,NA,149.6,DPPIV inhibition percentage,100% DPP-IV inhibition,Nongonierma and FitzGerald (2013a)
+P02769,LP,Serum albumin,DMD301510,Bos taurus,"136-137, 202-203, 325-326, 539-540",DPP-IV Inhibitory,10.1016/j.jff.2013.09.012,NA,712.5,DPPIV inhibition percentage,100% DPP-IV inhibition,Nongonierma and FitzGerald (2013a)
+P02769,VR,Serum albumin,DMD301510,Bos taurus,432-433,ACE-inhibitory,10.1002/elps.200700324,NA,52.8,,,
+P02769,VR,Serum albumin,DMD301510,Bos taurus,432-433,DPP-IV Inhibitory,10.1016/j.peptides.2012.11.016,NA,826.1,DPP-IV Inhibition,100% DPP-IV inhibition,"I.M.E.?Lacroix,?E.C.Y.?Li-Chan (2012)"
